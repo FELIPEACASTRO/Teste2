@@ -10,3 +10,6 @@ Sera criada a tabela "usuario" e nela seus respectivos campos que serão  utiliz
 
 Para efetuar o start da aplicação devera ser executada a classe ApplicationStart que se encontra no pacote br.com.usuario.restful, 
 para efetuar os testes JUnit  executar a classe UsuarioControllerTest que se encontra no pacote br.com.campanha.restful.integration.controller
+
+
+Caso necessite efetuar o teste de um GET via Browser chamar a URL http://localhost:8080/rest/usuario/ e seu respectivo id caso queira ou caso nao insira o id sera retornado no browser todos os registros.
